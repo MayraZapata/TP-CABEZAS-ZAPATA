@@ -25,8 +25,8 @@ https://drive.google.com/file/d/1gHukMO8L6qGPykdk_W5BR_u2bZn6RbK8/view?usp=shari
 Regularity:
 |Req|Detail|
 |:-|:-|
-|Simple CRUD|1. CRUD-User<br>2. CRUD-Book<br>|
-|Dependent CRUD|1. CRUD-Purchase {depends on} CRUD-User, CRUD-Book<br>|
+|Simple CRUD|1. CRUD-User<br>2. CRUD-Book<br>3. CRUD-Order<br>|
+|Dependent CRUD|1. CRUD-Purchase {depends on} CRUD-User, CRUD-Book, CRUD-Order<br>|
 
 Additional Requirements for AD:
 |Req|Detail|
