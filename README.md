@@ -31,5 +31,5 @@ Regularity:
 Additional Requirements for AD:
 |Req|Detail|
 |:-|:-|
-|CRUD |1. CRUD-category <br>2. CRUD-Review <br>|
+|CRUD |1. CRUD-Category <br>2. CRUD-Review <br>|
 |CUU/Epic|1. User purchases books and leaves a review (A user selects a book, adds it to the cart, completes the purchase, and can later leave a review for that book. This flow adds value by connecting catalog browsing with post-purchase engagement and feedback.)|
